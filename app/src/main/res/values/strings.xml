@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="userList">User list</string>
+    <string name="hintName">Name</string>
+    <string name="hintCity">City</string>
+    <string name="addBtn">Add</string>
+    <string name="viewBtn">View</string>
+    <string name="updateBtn">Update</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="requiriedFiled">Enter requiried field</string>
+    <string name="userAdded">User added</string>
+    <string name="recordFailed">Record not saved</string>
+    <string name="valueFailed">Value not updated</string>
+    <string name="updateFailed">Update failed</string>
+    <string name="confirm">Confirm?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
